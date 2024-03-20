@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Text-Manipulation/static/css/main.e270d4b8.chunk.css",
+    "main.js": "/Text-Manipulation/static/js/main.a36b0176.chunk.js",
+    "main.js.map": "/Text-Manipulation/static/js/main.a36b0176.chunk.js.map",
+    "runtime-main.js": "/Text-Manipulation/static/js/runtime-main.b8446e80.js",
+    "runtime-main.js.map": "/Text-Manipulation/static/js/runtime-main.b8446e80.js.map",
+    "static/js/2.1b5a1e9d.chunk.js": "/Text-Manipulation/static/js/2.1b5a1e9d.chunk.js",
+    "static/js/2.1b5a1e9d.chunk.js.map": "/Text-Manipulation/static/js/2.1b5a1e9d.chunk.js.map",
+    "static/js/3.3963f254.chunk.js": "/Text-Manipulation/static/js/3.3963f254.chunk.js",
+    "static/js/3.3963f254.chunk.js.map": "/Text-Manipulation/static/js/3.3963f254.chunk.js.map",
+    "index.html": "/Text-Manipulation/index.html",
+    "precache-manifest.dc0868c3a03d05f0397c8e68dd90c2b2.js": "/Text-Manipulation/precache-manifest.dc0868c3a03d05f0397c8e68dd90c2b2.js",
+    "service-worker.js": "/Text-Manipulation/service-worker.js",
+    "static/css/main.e270d4b8.chunk.css.map": "/Text-Manipulation/static/css/main.e270d4b8.chunk.css.map",
+    "static/js/2.1b5a1e9d.chunk.js.LICENSE.txt": "/Text-Manipulation/static/js/2.1b5a1e9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8446e80.js",
+    "static/js/2.1b5a1e9d.chunk.js",
+    "static/css/main.e270d4b8.chunk.css",
+    "static/js/main.a36b0176.chunk.js"
+  ]
+}
